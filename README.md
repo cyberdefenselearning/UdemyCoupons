@@ -135,9 +135,5 @@ Carefully categorized so you can find what you want faster ⚡
 ---
 
 ✨ If you find this repo useful, don’t forget to **star ⭐** and share it with your friends.  
-```
 
 ---
-
-✅ This is now **100% clean** — only real courses you’ve given me are included.
-Would you like me to also add a **dynamic badge row** (last updated date + total courses count) at the top so visitors instantly see freshness?
