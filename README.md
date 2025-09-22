@@ -5,7 +5,7 @@ Welcome to my collection of **free & discounted course coupons**!
 Carefully categorized so you can find what you want faster ⚡  
 *All coupons listed here are marked as ⏰ No Expiry (check links for availability).*  
 
----
+---------------------------------------------------------------
 
 ## 📂 Categories  
 
@@ -17,6 +17,18 @@ Carefully categorized so you can find what you want faster ⚡
 - [🛡 Cyber Security](#-cyber-security)  
 - [📈 Project Management / Leadership](#-project-management--leadership)  
 - [⚙️ DevOps / Tools](#️-devops--tools)  
+------------------------------------------------------------
+| 📂 Category | 📚 Courses Available |
+|-------------|----------------------|
+| 🐍 Programming | 2 |
+| 🌐 Web Development & Design | 1 |
+| 📊 Data Science & AI | 3 |
+| 🤖 Generative AI | 6 |
+| ☁️ Cloud Computing | 13 |
+| 🛡 Cyber Security | 19 |
+| 📈 Project Management / Leadership | 6 |
+| ⚙️ DevOps / Tools | 2 |
+| **Total** | **52** |
 
 ---
 
